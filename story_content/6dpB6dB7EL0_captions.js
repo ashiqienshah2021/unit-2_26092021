@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.55.25975.0%0D%0A%0D%0A00:00:00.032%20--%3E%2000:00:05.432%0D%0A%E2%80%9CThe%20single%20biggest%20problem%20in%20communication%20is%20the%20illusion%20that%20it%20has%20taken%20place.%E2%80%9D%0D%0A%0D%0A"}')
